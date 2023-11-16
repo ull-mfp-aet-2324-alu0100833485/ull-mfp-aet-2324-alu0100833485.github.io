@@ -1,8 +1,8 @@
-title: 'Aprendizaje y Enseñanza de la Tecnología'
+title: 'Tecnología 4º ESO'
 subtitle: '1er Cuatrimestre'
 theme: jekyll-theme-midnight
 light: true
-description: 'Desarrollo Colaborativo de Proyectos de Aprendizaje y Enseñanza de Tecnologías en la Nube'
+description: 'Apuntes de Tecnología'
 acronym: AET
 exclude: [ '_drafts/2021/', '_drafts/2020' ]
 baseurl: # '/introduccion'
